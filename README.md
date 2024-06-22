@@ -1,1 +1,3 @@
-# .github
+# KNICKSHACK LLC
+
+A product incubator
